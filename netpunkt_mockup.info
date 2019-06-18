@@ -1,0 +1,8 @@
+<?php
+
+name = netpunkt_mockup
+core = 7.x
+
+files[] = NetpunktMockup.class.php
+
+dependencies[] = ting_client
